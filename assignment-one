@@ -1,0 +1,36 @@
+<DOCTYPE!HTML>
+    <html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Skulls Website- Homepage</title>
+	<meta name="viewport" content="width=device-width">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<!-- meyer-reset is a special css library that overrides all the ugle default css styles that come with html5 -->
+
+	<link rel="stylesheet" href="style.css">
+</head>
+<header>
+	<h1> Look at all these BONES</h1>
+</header>
+<br>
+<div class= "doodoo">
+	<p>Where do you learn about bones? Osteoclasst.What do you call it when a skeleton is having a great time?
+		An osteoblast. Why does a skeleton always tell the truth? He wants tibia honest. Why did the skeleton start a fight?
+		He had a bone to pick. What’s the coolest part of a skeleton? The hip. What do you call a funny bone? A humerus.
+		Why was the skeleton stupid? He was a numskull.Why was the skeleton so lonely? He had no body. Why are bones so calm? Nothing gets under their skin. What did the osteopathic medicine doctor bring to the potluck?
+		Spare ribs.</p>
+</div>
+	<br>
+<footer>
+	<div class= "link-1">
+		<h2> Some Skulls</h2>
+		<h2> Some More Skulls</h2>
+	</div>
+	<div class="link-2">
+		<h2> Even More Skulls</h2>
+		<h2> SKULLS FOR THE SKULL THRONE</h2>
+	</div>
+</footer>
+
+    </html>
